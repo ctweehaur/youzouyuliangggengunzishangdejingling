@@ -381,7 +381,7 @@ const lessonData = [
     ["没想到", "méi xiǎng dào", "I didn't expect", "Tidak menyangka"],
     ["小小的扯铃", "xiǎo xiǎo de chě líng", "such a small diabolo", "diabolo yang kecil"],
     ["能让你", "néng ràng nǐ", "can bring you", "boleh memberi awak"],
-    ["收获满满", "shōu huò mǎn mǎn", "so much收获", "begitu banyak hasil"],
+    ["收获满满", "shōu huò mǎn mǎn", "gain so much", "begitu banyak hasil"],
     ["，", "", "", ""],
     ["那你", "nà nǐ", "then what", "jadi awak"],
     ["对自己", "duì zì jǐ", "are your expectations", "terhadap diri sendiri"],
