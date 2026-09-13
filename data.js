@@ -466,11 +466,11 @@ const lessonData = [
     ["希望", "xī wàng", "I hope", "Harap"],
     ["这游走于", "zhè yóu zǒu yú", "this spirit that dances", "roh yang bermain di"],
     ["两根木棍之上", "liǎng gēn mù gùn zhī shàng", "on two wooden sticks", "atas dua batang kayu"],
-    ["的精灵", "de jīng líng", "can continue", "ini"],
+    ["的精灵", "de jīng líng", "fairy", "pari-pari"],
     ["，", "", "", ""],
-    ["能继续", "néng jì xù", "to flourish", "dapat terus"],
+    ["能继续", "néng jì xù", "can continue", "dapat terus"],
     ["在我国", "zài wǒ guó", "in our country", "di negara kita"],
-    ["发扬光大", "fā yáng guāng dà", "and prosper", "berkembang maju"],
+    ["发扬光大", "fā yáng guāng dà", "flourish and prosper", "berkembang maju"],
     ["。", "", "", ""],
 
     ["\n", "", "", ""], // 👈 出处
